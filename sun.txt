@@ -14,3 +14,6 @@ this the branch 1 merge confo -----merge--1
 
 ----------------------------------------
 this is branch -2 merge confo --merge2
+
+
+---------------------modified
