@@ -1,4 +1,4 @@
-hello hello hello
+ihello hello hello
 
 public class ArrayDemo2 
 {
@@ -10,7 +10,7 @@ public class ArrayDemo2
 		-------------------------------------------------
 	}
 	
-this the branch 1 merge confo -----merge--1
+this the branch 1 merge confo -----merge--1-----sameline
 
 ----------------------------------------
 this is branch -2 merge confo --merge2
