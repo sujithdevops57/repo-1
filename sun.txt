@@ -12,6 +12,9 @@ public class ArrayDemo2
 	
 this the branch 1 merge confo -----merge--1-----sameline
 
+this the branch 1 merge confo -----merge--1-----sujith--modi--1
+
+
 ----------------------------------------
 this is branch -2 merge confo --merge2
 
